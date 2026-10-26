@@ -4,13 +4,13 @@
 
 # Crest
 
-Crest turns your Zwift rides into a daily quest, XP and a rank. It reads the rides Zwift already saves on your Mac, so there's nothing to connect and no account to make.
+Crest ranks you by your FTP and gives you a short quest every day to raise it. It reads the rides Zwift already saves on your Mac, so there's nothing to connect and no account to make.
 
-- **One quest a day.** Every quest has a **floor** and a **target**. Ride the floor to keep your streak. Every minute after it earns more XP, up to the target and beyond.
-- **Zwift does the work.** Accept a quest and it appears in Zwift under Workouts, then Custom Workouts. Zwift sets the watts for every block, so you just pedal.
-- **Ranks E to S.** Rookie, Rider, Contender, Challenger, Elite, Legend. Each rank has its own XP bar.
-- **Streaks multiply XP.** 1.25× from day 3, 1.5× from day 7. Miss a floor and it starts over.
-- **History.** A calendar of every ride, with the XP breakdown for each day.
+- **Your rank is your FTP.** Eighteen steps from E− to S+, based on FTP per kilo. An S means a genuinely top-tier FTP, and every step is only about 12 W for a 75 kg rider.
+- **Small quests, every day.** Ten to twenty minutes, each one a single dose that pushes your FTP up: sprints, tempo, threshold, VO2 or an easy spin. Ride the floor (about 10 minutes) to keep your streak.
+- **Zwift does the work.** Accept a quest and it appears in Zwift under Workouts, then Custom Workouts. Zwift sets the watts, so you just pedal.
+- **Measured, not guessed.** Hard efforts in your rides and a short ramp test every four weeks measure your FTP. When it rises, so does your rank.
+- **Fitness and history.** A fitness score that moves after every ride, and a calendar of every day with your FTP over time.
 
 ## Install
 
