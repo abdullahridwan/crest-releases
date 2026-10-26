@@ -16,8 +16,7 @@ Crest turns your Zwift rides into a daily quest, XP and a rank. It reads the rid
 
 1. Download the `.dmg` from the [latest release](https://github.com/abdullahridwan/crest-releases/releases/latest).
 2. Open it and drag **Crest** into **Applications**.
-3. The first time, right-click Crest and choose **Open**. Crest isn't notarized by Apple yet, so macOS asks you to confirm once.
-4. When Crest asks to open your Documents folder, choose **Allow**. That's where Zwift saves your rides.
+3. Open Crest. When it asks to open your Documents folder, choose **Allow**. That's where Zwift saves your rides.
 
 ## Privacy
 
